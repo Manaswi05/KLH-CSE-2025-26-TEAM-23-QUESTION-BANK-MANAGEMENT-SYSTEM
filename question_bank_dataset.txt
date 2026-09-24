@@ -1,0 +1,51 @@
+Question_ID	Subject	Topic	Marks	Question_Type	Difficulty	Academic_Year	Keyword	Question
+Q001	Machine Learning	Regression	5	Theory	Medium	2025	regression	Explain linear regression and its applications.
+Q002	Machine Learning	Classification	10	Theory	Hard	2025	classification	Explain classification and its applications.
+Q003	Machine Learning	Clustering	5	Theory	Medium	2024	clustering	What is clustering in machine learning?
+Q004	Machine Learning	Decision Tree	10	Theory	Hard	2025	decision tree	Explain the working of a decision tree.
+Q005	Machine Learning	KNN	5	Problem	Medium	2024	KNN	Explain the K-nearest neighbors algorithm.
+Q006	Machine Learning	Regression	2	Theory	Easy	2025	regression	Define regression in machine learning.
+Q007	Machine Learning	SVM	10	Theory	Hard	2024	SVM	Explain support vector machines.
+Q008	Machine Learning	Naive Bayes	5	Theory	Medium	2025	naive bayes	Explain the Naive Bayes classifier.
+Q009	Machine Learning	Neural Network	10	Theory	Hard	2025	neural network	Explain the architecture of a neural network.
+Q010	Machine Learning	Preprocessing	5	Problem	Medium	2024	normalization	Explain data normalization.
+Q011	DBMS	SQL	5	Coding	Medium	2025	SQL	Write an SQL query to retrieve student records.
+Q012	DBMS	Normalization	10	Theory	Hard	2024	normalization	Explain database normalization.
+Q013	DBMS	Keys	2	Theory	Easy	2025	primary key	Define primary key.
+Q014	DBMS	Joins	5	Coding	Medium	2025	join	Explain different types of SQL joins.
+Q015	DBMS	Transactions	10	Theory	Hard	2024	transaction	Explain database transactions.
+Q016	Java	OOP	5	Theory	Medium	2025	inheritance	Explain inheritance in Java.
+Q017	Java	Classes	2	Theory	Easy	2024	class	What is a class in Java?
+Q018	Java	Objects	2	Theory	Easy	2025	object	What is an object in Java?
+Q019	Java	Polymorphism	10	Theory	Hard	2025	polymorphism	Explain polymorphism with an example.
+Q020	Java	Exception Handling	5	Coding	Medium	2024	exception	Write a Java program for exception handling.
+Q021	DSA	Sorting	5	Coding	Medium	2025	sorting	Write a program for bubble sort.
+Q022	DSA	Searching	5	Coding	Medium	2024	binary search	Explain binary search.
+Q023	DSA	Arrays	2	Theory	Easy	2025	array	Explain arrays in data structures.
+Q024	DSA	Linked List	10	Theory	Hard	2025	linked list	Explain the working of a linked list.
+Q025	DSA	Stack	5	Coding	Medium	2024	stack	Implement a stack using an array.
+Q026	Operating Systems	Scheduling	10	Problem	Hard	2025	CPU scheduling	Solve a CPU scheduling problem.
+Q027	Operating Systems	Processes	5	Theory	Medium	2024	process	Explain process management.
+Q028	Operating Systems	Memory	10	Theory	Hard	2025	memory	Explain memory management.
+Q029	Operating Systems	Deadlock	5	Theory	Medium	2025	deadlock	Explain deadlock and its conditions.
+Q030	Operating Systems	Files	2	Theory	Easy	2024	file system	What is a file system?
+Q031	Machine Learning	Regression	10	Theory	Hard	2024	linear regression	Explain the difference between simple and multiple linear regression.
+Q032	Machine Learning	Classification	5	Theory	Medium	2024	logistic regression	Explain logistic regression and its applications.
+Q033	Machine Learning	Clustering	10	Theory	Hard	2025	K-means	Explain the K-means clustering algorithm.
+Q034	Machine Learning	Decision Tree	5	Problem	Medium	2024	entropy	Explain entropy and information gain in decision trees.
+Q035	Machine Learning	Neural Network	2	Theory	Easy	2025	activation function	What is an activation function in a neural network?
+Q036	DBMS	SQL	10	Coding	Hard	2025	SELECT query	Write an SQL query to retrieve records using a WHERE condition.
+Q037	DBMS	Normalization	5	Theory	Medium	2024	normal forms	Explain the first three normal forms in DBMS.
+Q038	DBMS	Keys	2	Theory	Easy	2025	foreign key	Define foreign key and explain its purpose.
+Q039	DBMS	Joins	10	Theory	Hard	2025	inner join	Explain the working of an inner join with an example.
+Q040	DBMS	Transactions	5	Theory	Medium	2024	ACID	Explain the ACID properties of database transactions.
+Q041	Java	OOP	10	Theory	Hard	2025	encapsulation	Explain encapsulation in Java with an example.
+Q042	Java	Classes	5	Theory	Medium	2024	constructor	Explain constructors in Java.
+Q043	Java	Objects	2	Theory	Easy	2025	this keyword	What is the use of the this keyword in Java?
+Q044	Java	Polymorphism	10	Theory	Hard	2025	method overriding	Explain method overriding in Java with an example.
+Q045	Java	Exception Handling	5	Coding	Medium	2024	try catch	Write a Java program using try-catch for exception handling.
+Q046	DSA	Sorting	10	Coding	Hard	2025	merge sort	Write a program to implement merge sort.
+Q047	DSA	Searching	5	Theory	Medium	2024	linear search	Explain linear search and its time complexity.
+Q048	DSA	Linked List	2	Theory	Easy	2025	node	What is a node in a linked list?
+Q049	Operating Systems	Scheduling	10	Theory	Hard	2025	Round Robin	Explain the Round Robin CPU scheduling algorithm.
+Q050	Operating Systems	Deadlock	5	Theory	Medium	2024	deadlock prevention	Explain methods for preventing deadlock in operating systems.
